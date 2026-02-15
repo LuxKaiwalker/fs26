@@ -1,0 +1,2 @@
+moodle
+web https://safari.ethz.ch/ddca/spring2025/doku.php?id=start

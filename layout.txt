@@ -1,0 +1,9 @@
+the following layout will be primarily used: 
+
+pdfs stored in same spot;
+
+moodle (if there)
+script (if there)
+web(site) (if there)
+
+other stuff (if there)

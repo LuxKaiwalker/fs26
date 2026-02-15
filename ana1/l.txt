@@ -1,0 +1,3 @@
+moodle
+web https://metaphor.ethz.ch/x/2025/hs/401-1261-07L/
+script /home/vincent/uni/fs26/ana1/Analysis_1___D_MATH___ETH.pdf
