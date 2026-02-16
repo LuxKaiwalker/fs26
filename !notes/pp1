@@ -1,0 +1,26 @@
+ideas in paralell programming: 
+we try to incorporate visual computing and find good foundations for this
+
+challenges, althogh paralell tasks can be achieved using split up, the coordination can be bottleneck in performance
+
+eine gleichmaessige aufteilung hierbei auch wichtig!
+
+shared ressource (race condition)
+
+lockout, ressource problems?
+general memory access problems may exist!
+
+what are working communication protocols for parallelism though then?
+
+how to large scale software engineering? 
+
+
+-> process (algo and data structures), communication, objects (structural aspects)
+
+then, SPCA and CN. 
+
+tip: just read intro
+
+ex classes etc? 
+
+

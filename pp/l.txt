@@ -1,3 +1,3 @@
 moodle https://moodle-app2.let.ethz.ch/course/view.php?id=27855
-web
+web https://spcl.inf.ethz.ch/Teaching/2026-pp/
 script
