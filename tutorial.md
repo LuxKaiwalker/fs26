@@ -22,7 +22,9 @@ EOF
 chmod +x ~/bin/open
 export PATH="$HOME/bin:$PATH"
 source ~/.bashrc
-
+```
+testing:
+```
 open script
 open web
 ```
