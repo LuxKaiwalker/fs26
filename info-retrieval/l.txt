@@ -4,3 +4,5 @@ web https://systems.ethz.ch/education/courses/2024-spring/information-retrieval-
 yt https://www.youtube.com/c/GhislainFournysLectures
 
 script /home/vincent/uni/fs26/info-retrieval/Introduction-to-information-retrieval.pdf
+element https://chat.ethz.ch/studentchat/#/room/#ServerAnnouncements:studentchat.ethz.ch
+jupyter 
