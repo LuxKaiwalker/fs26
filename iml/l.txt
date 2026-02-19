@@ -1,3 +1,3 @@
 moodle
-web https://las.inf.ethz.ch/teaching/introml-s25
+web https://las.inf.ethz.ch/teaching/introml-s26
 script /home/vincent/uni/fs26/iml/introduction_to_machine_learning_notes.pdf
