@@ -1,3 +1,0 @@
-moodle https://moodle-app2.let.ethz.ch/course/view.php?id=26844
-web
-script
